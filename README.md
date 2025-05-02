@@ -39,8 +39,24 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - **Tesla Stock Prices:**  
   Scrape Tesla stock prices using: [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/history).
 
-## Setup Instructions
+## Up to Date Data Dictionary
 
-1. Clone the repository or download the files.
-2. Create and activate a virtual environment (optional but recommended).
-3. Install dependencies:
+| Field                  | Type                 | Description                                                                  |
+| ---------------------- | -------------------- | ---------------------------------------------------------------------------- |
+| `Date`                 | Date                 | The day of the year                                                          |
+| `TSLA_Open`            | Numeric              | Tesla opening stock price for the day                                        |
+| `TSLA_High`            | Numeric              | Tesla highest stock price for the day                                        |
+| `TSLA_Low`             | Numeric              | Tesla lowest stock price for the day                                         |
+| `TSLA_Close`           | Numeric              | Tesla closing stock price for the day                                        |
+| `TSLA_Adj Close`       | Numeric              | Tesla closing price after adjustment for all applicable splits and dividends |
+| `TSLA_Volume`          | Numeric              | Number of Tesla shares traded for the day                                    |
+| `TSLA_Return`          | Numeric (Calculated) | (Adj Close – Open) / Open — Tesla daily return                               |
+| `GSPC_Open`            | Numeric              | S&P 500 opening stock price for the day                                      |
+| `GSPC_High`            | Numeric              | S&P 500 highest stock price for the day                                      |
+| `GSPC_Low`             | Numeric              | S&P 500 lowest stock price for the day                                       |
+| `GSPC_Close`           | Numeric              | S&P 500 closing stock price for the day                                      |
+| `GSPC_Adj Close`       | Numeric              | S&P 500 closing price after adjustment for splits and dividends              |
+| `GSPC_Volume`          | Numeric              | Number of S&P 500 shares traded for the day                                  |
+| `GSPC_Return`          | Numeric (Calculated) | (Adj Close – Open) / Open — S&P 500 daily return                             |
+| `Change_in_Followers`  | Numeric              | Number of Elon Musk followers gained or lost on a given day                  |
+| `TSLA_positive_return` | Numeric              | 1 if return was positive, 0 if it was negative                               |
