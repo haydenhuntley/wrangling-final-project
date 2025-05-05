@@ -7,7 +7,6 @@ This project investigates the impact of Elon Musk's follower trends and external
 1. [Project Overview](#project-overview)
 2. [File Descriptions](#file-descriptions)
 3. [Data Sources](#data-sources)
-4. [Setup Instructions](#setup-instructions)
 
 ## Project Overview
 
