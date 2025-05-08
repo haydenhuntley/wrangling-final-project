@@ -21,7 +21,7 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - `3250-q2.ipynb`: Analysis Question 2 – Volatility during key periods
 - `3250-q3.ipynb`: Analysis Question 3 – Predicting stock movement using features
 - `time-series-forecast.ipynb`: Continuation of Question 3 - Predicting whether TSLA will be positive or negative
-- `README.md`: In deption explanation of each Jupyter file
+- `README.md`: In depth explanation of each Jupyter file
 
 ### Data:
 
@@ -36,8 +36,11 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - **Elon Musk Twitter Follower Data:**  
   Scraped from: [https://www.statswithsasa.com/2024/09/18/elon-musk-definitely-tweets-too-much/#section1](https://www.statswithsasa.com/2024/09/18/elon-musk-definitely-tweets-too-much/#section1)
 
-- **Tesla Stock Prices:**  
-  Scrape Tesla stock prices using: [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/history).
+- **Market Stock Prices:**  
+  Scrape Tesla stock prices using: [Yahoo Finance](https://finance.yahoo.com/).
+
+- **TSLA Stock Prices:**
+  Downloaded CSV from kaggle
 
 ## Up to Date Data Dictionary
 
