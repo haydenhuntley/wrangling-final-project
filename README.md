@@ -20,7 +20,8 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - `3250-q1.ipynb`: Analysis Question 1 – Initial trends and correlations
 - `3250-q2.ipynb`: Analysis Question 2 – Volatility during key periods
 - `3250-q3.ipynb`: Analysis Question 3 – Predicting stock movement using features
-- 'time-series-forecast.ipynb': Analysis of
+- `time-series-forecast.ipynb`: Continuation of Question 3 - Predicting whether TSLA will be positive or negative
+- `README.md`: In deption explanation of each Jupyter file
 
 ### Data:
 
@@ -28,8 +29,7 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - `project_checkin_data.csv`: Combined and cleaned dataset for modeling
 - `tesla&market_returns.csv`: Daily returns for TSLA and the S&P 500
 - `TSLA.csv`: Raw Tesla stock price data
-
-- `README.md`: Documentation of project structure and purpose
+- `README.md`: Describing what data came from each source
 
 ## Data Sources
 
