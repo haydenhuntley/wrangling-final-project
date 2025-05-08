@@ -20,6 +20,7 @@ We explore how Elon Musk’s online influence—particularly Twitter follower gr
 - `3250-q1.ipynb`: Analysis Question 1 – Initial trends and correlations
 - `3250-q2.ipynb`: Analysis Question 2 – Volatility during key periods
 - `3250-q3.ipynb`: Analysis Question 3 – Predicting stock movement using features
+- 'time-series-forecast.ipynb': Analysis of
 
 ### Data:
 
