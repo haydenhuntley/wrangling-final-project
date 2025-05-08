@@ -1,6 +1,6 @@
 ## Elon Musk, TSLA & Market Reactions – Analysis Walkthrough
 
-### 3250-q1: Has Elon Musk’s increased media presence significantly impacted Tesla’s stock returns or volatility?​?
+### 3250-q1: Has Elon Musk’s increased media presence significantly impacted Tesla’s stock returns or volatility?​
 
 **Notebook:** `3250-q1.ipynb`
 **Code Summary:**
